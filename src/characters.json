@@ -5141,7 +5141,7 @@
         "id": "383",
         "name": "Hikari",
         "character": "Hikari",
-        "img":  "arc/Hikari.png",
+        "img":  "arc/hikari.png",
         "color": "#FFE7B5",
         "defaultText": {
             "text": "",
@@ -5155,7 +5155,7 @@
         "id": "384",
         "name": "Hikari alt",
         "character": "Hikari",
-        "img":  "arc/Hikari_alt.png",
+        "img":  "arc/hikari_alt.png",
         "color": "#FFE7B5",
         "defaultText": {
             "text": "",
