@@ -5136,6 +5136,34 @@
             "r": -2,
             "s": 47
         }
+    },
+    {
+        "id": "383",
+        "name": "Hikari",
+        "character": "Hikari",
+        "img":  "arc/Hikari.png",
+        "color": "#FFE7B5",
+        "defaultText": {
+            "text": "",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "384",
+        "name": "Hikari alt",
+        "character": "Hikari",
+        "img":  "arc/Hikari_alt.png",
+        "color": "#FFE7B5",
+        "defaultText": {
+            "text": "",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     }
   
 ]
