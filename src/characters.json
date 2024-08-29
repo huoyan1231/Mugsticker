@@ -5144,7 +5144,7 @@
         "img":  "arc/hikari.png",
         "color": "#FFE7B5",
         "defaultText": {
-            "text": "",
+            "text": "HELLO!",
             "x": 148,
             "y": 58,
             "r": -2,
@@ -5158,7 +5158,7 @@
         "img":  "arc/hikari_alt.png",
         "color": "#FFE7B5",
         "defaultText": {
-            "text": "",
+            "text": "HELLO!",
             "x": 148,
             "y": 58,
             "r": -2,
