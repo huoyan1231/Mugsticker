@@ -5164,6 +5164,19 @@
             "r": -2,
             "s": 47
         }
+    },
+    {
+        "id": "385",
+        "name": "Nami",
+        "character": "nami",
+        "img":  "arc/nami.png",
+        "color": "#F9C2CB",
+        "defaultText": {
+            "text": "SHOCK!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     }
-  
 ]
