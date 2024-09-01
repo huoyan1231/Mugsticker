@@ -5178,5 +5178,19 @@
             "r": -2,
             "s": 47
         }
+    },
+    {
+        "id": "386",
+        "name": "Vita",
+        "character": "Vita",
+        "img":  "arc/vita.png",
+        "color": "#F58194",
+        "defaultText": {
+            "text": "OK!",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     }
 ]
